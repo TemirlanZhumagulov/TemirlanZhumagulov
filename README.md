@@ -14,6 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   https://vk.com/id612973156
+  
   https://www.linkedin.com/in/temirlan-zhumagulov/
 </p>
 
