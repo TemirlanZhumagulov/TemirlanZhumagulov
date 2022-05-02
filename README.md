@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Temirlan Jumagulov</h1>
+<h1 align="center">Hi 👋, I'm Temirlan Zhumagulov</h1>
 <h3 align="center">A passionate backend developer on java from Kazkahstan</h3>
 
 - 👨‍💻 I'm interested in developing business applications and websites
