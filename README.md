@@ -5,7 +5,7 @@
 
 - 🤝 I am in the process of looking for an internship to gain experience as a **Java Spring Devloper**
 
-- 🌱 I’m currently learning **Spring boot, Spark, Python, NoSQL (MongoDB)**
+- 🌱 I’m currently learning **Spring boot, SQL (PostgreSQL), Hibernate, Linux tools, GIT **
 
 - 📫 How to reach me **temirlanzhumagulov01@gmail.com**
 
