@@ -9,11 +9,11 @@
 
 - 📫 How to reach me **temirlanzhumagulov01@gmail.com**
 
-- 📄 My resume [https://www.linkedin.com/in/temirlan-zhumagulov/](https://www.linkedin.com/in/temirlan-zhumagulov/)
+- 📄 More information about me [https://www.linkedin.com/in/temirlan-zhumagulov/](https://www.linkedin.com/in/temirlan-zhumagulov/)
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-  https://vk.com/id612973156
+<p align="left">  
+  temirlanzhumagulov01@gmail.com
   
   https://www.linkedin.com/in/temirlan-zhumagulov/
 </p>
