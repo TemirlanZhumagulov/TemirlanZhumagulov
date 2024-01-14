@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Temirlan Zhumagulov</h1>
-<h3 align="center">A passionate backend developer on java from Kazkahstan</h3>
+<h3 align="center">Professional java backend developer</h3>
 
-- 👨‍💻 I'm interested in developing business applications and websites
+- 👨‍💻 I'm interested in developing highly scalable business applications following clean code and architecture best practices 
 
-- 🤝 I am in the process of looking for an internship to gain experience as a **Java Spring Devloper**
+- 🤝 I'm in the process of looking for a job as a **Java Spring Devloper**
 
-- 🌱 I’m currently learning **Spring boot, SQL (PostgreSQL), Hibernate, Linux tools, GIT **
-z
+- 🌱 I’m currently learning and practicing: **Spring boot, MongoDB, Elasticsearch, Apache Kafka, Kubernetes, Microsoft Azure**
+- 
 - 📫 How to reach me **temirlanzhumagulov01@gmail.com**
 
 - 📄 More information about me [https://www.linkedin.com/in/temirlan-zhumagulov/](https://www.linkedin.com/in/temirlan-zhumagulov/)
