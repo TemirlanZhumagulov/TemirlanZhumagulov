@@ -22,7 +22,7 @@
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/331488/mongodb.svg" alt="postgresql" width="40" height="40"/></a>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Apache_kafka.svg/1200px-Apache_kafka.svg.png" alt="postgresql" height="40"/></a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/341782/elastic-search.svg" width="40" height="40"></a>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/E/elasticsearch-logo-C75C4578EC-seeklogo.com.png" width="40" height="40"></a>
 </p>
 <h3>Frontend and Mobile:</h3>
 <p align="left"> 
