@@ -17,25 +17,22 @@
 <h2 align="left">Languages and Tools:</h2>
 <h3>Backend:</h3>
 <a href="https://www.java.com" target="_blank" rel="noreferrer">
-Java <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
 </a>
 <a href="https://spring.io/" target="_blank" rel="noreferrer">
-Spring
-Boot <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
 </a>
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-PostgreSQL <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
 </a>
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-MongoDB <img src="https://www.svgrepo.com/show/331488/mongodb.svg" alt="postgresql" width="40" height="40"/>
+<img src="https://www.svgrepo.com/show/331488/mongodb.svg" alt="postgresql" width="40" height="40"/>
 </a>
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-Apache
-Kafka <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Apache_kafka.svg/1200px-Apache_kafka.svg.png" alt="postgresql" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Apache_kafka.svg/1200px-Apache_kafka.svg.png" alt="postgresql" height="40"/>
 </a>
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-
-Elasticsearch <img src="https://www.svgrepo.com/show/341782/elastic-search.svg" width="40" height="40">
+<img src="https://www.svgrepo.com/show/341782/elastic-search.svg" width="40" height="40">
 </a>
 <h3>Frontend and Mobile:</h3>
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
