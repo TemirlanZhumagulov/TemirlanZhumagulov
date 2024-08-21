@@ -1,13 +1,6 @@
 <h1 align="center">Hey 👋 I'm Temirlan Zhumagulov</h1>
 <h3 align="center">Pre-Middle Java Developer</h3>
 
-- 👨‍💻 I'm interested in developing highly scalable business applications following clean code and architecture best
-  practices
-
-- 🤝 I'm in the process of looking for a job as a **Java Backend Devloper**
-
-- 🌱 I’m currently learning and gaining experience with the **Spring boot, MongoDB, Elasticsearch, Apache Kafka, Kubernetes, Microsoft Azure**
-
 - 📫 How to reach me **temirlanzhumagulov01@gmail.com**
 
 - 📄 More information about me
