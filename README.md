@@ -2,8 +2,8 @@
 <h3 align="center">Pre-Middle Java Developer</h3>
 
 - 📫 **temirlanzhumagulov01@gmail.com**
-- <img src="https://cdn6.aptoide.com/imgs/c/4/9/c49d09e36eda3a27b6042a126780678c_icon.png" width="40">[HeadHunter](https://hh.kz/applicant/resumes/view?resume=d2e84f47ff09d1687d0039ed1f596b5533704d)
-- <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" width="40">[LinkedIn](https://www.linkedin.com/in/temirlan-zhumagulov/)
+- <img src="https://cdn6.aptoide.com/imgs/c/4/9/c49d09e36eda3a27b6042a126780678c_icon.png" width="24">[HeadHunter](https://hh.kz/applicant/resumes/view?resume=d2e84f47ff09d1687d0039ed1f596b5533704d)
+- <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" width="24">[LinkedIn](https://www.linkedin.com/in/temirlan-zhumagulov/)
 
 <h2 align="left">Languages and Tools:</h2>
 <h3>Backend:</h3>
