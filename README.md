@@ -5,7 +5,6 @@
 - <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/HeadHunter_logo.png" width="24"> [**HeadHunter**](https://hh.kz/applicant/resumes/view?resume=d2e84f47ff09d1687d0039ed1f596b5533704d)
 - <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" width="24"> [**LinkedIn**](https://www.linkedin.com/in/temirlan-zhumagulov/)
 
-<h2 align="left">Backend Languages and Tools:</h2>
 <h3>Backend:</h3>
 <p align="left"> 
   <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" height="40"/></a>
