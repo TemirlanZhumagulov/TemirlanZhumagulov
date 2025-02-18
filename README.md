@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋 I'm Temirlan Zhumagulov</h1>
-<h3 align="center">Pre-Middle Java Developer</h3>
+<h3>Software Engineer</h3>
 
 - 📫 **temirlanzhumagulov01@gmail.com**
 - <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/HeadHunter_logo.png" width="24"> [**HeadHunter**](https://hh.kz/applicant/resumes/view?resume=d2e84f47ff09d1687d0039ed1f596b5533704d)
